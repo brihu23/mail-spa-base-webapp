@@ -1,0 +1,1 @@
+# mail-spa-base-webapp
